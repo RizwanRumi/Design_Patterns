@@ -32,7 +32,7 @@ namespace AbstractFactoryPatternConsole
 
 
             if (shapeFactory != null && colorFactory != null)
-            {
+            {                
                 //get an object of Shape Circle
                 IShape shape1 = shapeFactory.GetShape("CIRCLE");
 
@@ -51,7 +51,7 @@ namespace AbstractFactoryPatternConsole
                 //call draw method of Shape Square
                 shape3.Draw();
                                 
-                Console.WriteLine("\n------------------Color---------------------\n");
+                Console.WriteLine("\n");
 
                 //get an object of Color Red
                 IColor color1 = colorFactory.GetColor("RED");
