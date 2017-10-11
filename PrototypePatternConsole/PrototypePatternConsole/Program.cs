@@ -48,7 +48,24 @@ namespace PrototypePatternConsole
           
             Console.WriteLine("Value of object1 = " + obj1.strCustomerName + " , Code = " + obj1.strCustomercode + " , Address = " + obj1.objAddress.strAddress);
             Console.WriteLine("value of object2 = " + obj2.strCustomerName + " , Code = " + obj2.strCustomercode + " , Address = " + obj2.objAddress.strAddress);
-            
+
+            Console.WriteLine("\n");
+
+            /* Prototype Pattern Example 2
+           * Details Link : https://www.tutorialspoint.com/design_pattern/prototype_pattern.htm
+           */
+            Console.WriteLine("Prototype Pattern Example 2 : \n");
+
+            ShapeCache.loadCache();
+
+            Shape clonedShape = ShapeCache.getShape("1");
+            Console.WriteLine("Shape : " + clonedShape.getType());
+
+            Shape clonedShape2 = ShapeCache.getShape("2");
+            Console.WriteLine("Shape : " + clonedShape2.getType());
+
+            Shape clonedShape3 = ShapeCache.getShape("3");
+            Console.WriteLine("Shape : " + clonedShape3.getType());
 
             Console.ReadLine();
         }
