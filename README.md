@@ -1,4 +1,4 @@
-# Creational_Design_Pattern_Using_C#
+# Creational Design Pattern Using C#
 
 IDE: Visual Studio 2015
 
