@@ -1,0 +1,6 @@
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\bin\Debug\BuilderPatternConsole.exe.config
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\bin\Debug\BuilderPatternConsole.exe
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\bin\Debug\BuilderPatternConsole.pdb
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\obj\Debug\BuilderPatternConsole.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\obj\Debug\BuilderPatternConsole.exe
+E:\Visual Studio 2015 Projects\Design_Pattern\Creational_Design_Pattern\BuilderPatternConsole\BuilderPatternConsole\obj\Debug\BuilderPatternConsole.pdb
