@@ -18,7 +18,7 @@ namespace PrototypePatternConsole
         }
 
         // for each shape run database query and create shape
-        // shapeMap.put(shapeKey, shape);
+        // shapeMap.Add(shapeKey, shape);
         // for example, we are adding three shapes
 
         public static void loadCache()

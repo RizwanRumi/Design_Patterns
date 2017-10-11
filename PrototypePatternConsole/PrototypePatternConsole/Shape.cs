@@ -23,18 +23,18 @@ namespace PrototypePatternConsole
             return id;
         }
 
-        public void setId(String id)
+        public void setId(string id)
         {
             this.id = id;
         }
 
         public object Clone()
         {
-            Object clone = null;
+            object clone = null;
 
             try
             {
-                clone = this.MemberwiseClone();
+                clone = MemberwiseClone();
 
             }
             catch (Exception e)
