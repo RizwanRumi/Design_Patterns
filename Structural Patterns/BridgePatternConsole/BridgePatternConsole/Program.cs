@@ -12,9 +12,10 @@ namespace BridgePatternConsole
         /// Structural Design Patterns
         /// </summary>
         /// <param name="args">Bridge Pattern</param>
-        
-            /*
-             */ 
+
+        /*
+         * Bridge is used when we need to decouple an abstraction from its implementation so that the two can vary independently.
+         */
 
         static void Main(string[] args)
         {
