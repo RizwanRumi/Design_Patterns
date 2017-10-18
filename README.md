@@ -11,3 +11,10 @@ ABFPS => (Abraham Became First President of States)
 3. Builder
 4. Prototype
 5. Singletone
+
+STRUCTURAL DESIGN :
+----------------------
+
+1. Adapter Pattern
+2. Bridge Pattern
+3. Filter Pattern
