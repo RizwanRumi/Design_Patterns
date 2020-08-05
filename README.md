@@ -1,6 +1,6 @@
 # Design Pattern C#
 
-IDE: Visual Studio 2015
+IDE: Visual Studio 2015, 2019
 
 CREATIONAL DESIGN :
 ----------------------
