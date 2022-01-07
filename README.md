@@ -1,6 +1,7 @@
-# Design Pattern C#
+# Design Pattern using C# and Python
 
-IDE: Visual Studio 2015, 2019
+
+C# IDE: Visual Studio 2015, 2019
 
 CREATIONAL DESIGN :
 ----------------------
