@@ -8,6 +8,15 @@ using a Factory allows the consumer to create new objects without having
 to know the details of how they're created, or what their dependencies 
 are - they only have to give the information they actually want.
 
+Pros and Cons:
+1. Avoid tight coupling between the creator and the concrete products.
+2. Single Responsibility Principle is applied. Product creation code can
+ move into one place in the program, making the code easier to support.
+3. Open/Closed Principle is applied. Introduce new types of products into
+ the program without breaking existing client code.
+4. The code may become more complicated since to introduce a lot of new
+ subclasses to implement the pattern. The best case scenario is when 
+ introducing the pattern into an existing hierarchy of creator classes.
 """
 
 # create interface
