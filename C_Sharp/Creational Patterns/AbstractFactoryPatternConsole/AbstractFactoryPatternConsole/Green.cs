@@ -10,7 +10,6 @@ namespace AbstractFactoryPatternConsole
     {
         public void Fill()
         {
-			// change for doing test
             Console.WriteLine("Inside Green::fill() method.");
         }
     }
