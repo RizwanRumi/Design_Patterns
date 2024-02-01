@@ -8,8 +8,9 @@ namespace AbstractFactoryPatternConsole
 {
     public class Blue : IColor
     {
+		// implement Fill method 
         public void Fill()
-        {
+        {			
             Console.WriteLine("Inside Blue::fill() method.");
         }
     }
