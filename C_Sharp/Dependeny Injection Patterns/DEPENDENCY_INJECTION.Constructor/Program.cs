@@ -11,7 +11,7 @@ namespace DEPENDENCY_INJECTION.Constructor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dependency Injection Design Pattern Example using Constructor:");
+            Console.WriteLine("Dependency Injection Design Pattern Example using Constructor :");
             //Create an Instance of EmployeeBL and Inject the Dependency Object as an Argument to the Constructor
             EmployeeBL employeeBL = new EmployeeBL(new EmployeeDAL());
             List<Employee> ListEmployee = employeeBL.GetAllEmployees();
