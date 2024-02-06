@@ -19,3 +19,10 @@ STRUCTURAL DESIGN :
 1. Adapter Pattern
 2. Bridge Pattern
 3. Filter Pattern
+
+DEPENDENCY INJECTION DESIGN :
+----------------------
+
+1. Constructor
+2. Property
+3. Method
