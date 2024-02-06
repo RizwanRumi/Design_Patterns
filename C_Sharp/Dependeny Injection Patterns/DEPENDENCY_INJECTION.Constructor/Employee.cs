@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DEPENDENCY_INJECTION.Constructor
+﻿namespace DEPENDENCY_INJECTION.Constructor
 {
     //This class is going to be used by both EmployeeDAL and EmployeeBL
     public class Employee
