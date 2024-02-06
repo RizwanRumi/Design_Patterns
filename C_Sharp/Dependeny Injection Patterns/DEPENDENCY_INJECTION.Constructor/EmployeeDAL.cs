@@ -13,9 +13,7 @@ namespace DEPENDENCY_INJECTION.Constructor
         List<Employee> SelectAllEmployees();
     }
 
-    //This is the class that is responsible for Interacting with the Database
-    //This class is going to be used by the EmpoloyeeBL class
-    //That means it is going to be the Dependency Object
+    //This is the service class. It is going to be the Dependency Object in client class
     public class EmployeeDAL : IEmployeeDAL
     {
         public List<Employee> SelectAllEmployees()
